@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.bg-container {
+  height: 20vh;
+  width: 100vh;
+  background-color: white;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+}
+
+.list {
+  margin-right: 10px;
+  font-size: 12px;
+  background-color: transparent;
+  color: #12022f;
+  font-weight: 700;
+  font-family: 'Roboto';
+}

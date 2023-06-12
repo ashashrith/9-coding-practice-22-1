@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.image {
+  height: 34vh;
+  width: 40vh;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  font-size: 33px;
+  color: #551e53;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
